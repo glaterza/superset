@@ -265,7 +265,7 @@
     "@emotion/jest": "^11.14.2",
     "@formatjs/intl-durationformat": "^0.10.18",
     "@istanbuljs/nyc-config-typescript": "^1.0.1",
-    "@playwright/test": "^1.61.1",
+    "@playwright/test": "^1.62.0",
     "@pmmmwh/react-refresh-webpack-plugin": "^0.6.2",
     "@storybook/addon-docs": "10.5.4",
     "@storybook/addon-links": "10.5.4",
